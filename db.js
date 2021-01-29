@@ -1,9 +1,8 @@
-{
+module.exports = {
   "bg": "https://images4.alphacoders.com/971/971201.jpg",
-  "imagem": "src/assets/Tomoyo.jpg",
   "bgL": "https://i.pinimg.com/originals/0d/db/55/0ddb5561cd7ef6f63adfee74ef423256.gif",
   "bgQ": "https://i.pinimg.com/originals/d8/25/b9/d825b96f6f6df5366e227f71679d04c7.jpg",
-  "bgR": "https://steamuserimages-a.akamaihd.net/ugc/158032285461701670/56541210FAA2D262EFDBBF7BC8ED49B31DDE7BC5/",
+  "bgR": "https://images4.alphacoders.com/908/908366.jpg",
   "title": "Quiz Garotas Mágicas ft. Alura",
   "description": "Teste os seus conhecimentos sobre garotas mágicas e seus animes",
   "questions": [
@@ -81,14 +80,14 @@
     }
   ],
   "external": [
-    "https://quiz-react.brenoha.vercel.app/"
+    ""
   ],
   "theme": {
     "colors": {
-      "primary": "#6D6D8D",
+      "primary": "#FFC0CB",
       "secondary": "#C4E4EF",
-      "loadingBg": "#07040E",
-      "mainBg": "#211232",
+      "loadingBg": "#c2d3fd",
+      "mainBg": "#4b204b",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
       "success": "#4CAF50"
