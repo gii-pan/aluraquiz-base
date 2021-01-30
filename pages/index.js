@@ -11,6 +11,7 @@ import QuizBackground from '../src/components/QuizBackground';
 import Input from '../src/components/Input';
 import Button from '../src/components/Button';
 import QuizContainer from '../src/components/QuizContainer';
+import Link from '../src/components/Link';
 
 const Title = styled.h1`
   font-size: 50px;
@@ -59,10 +60,18 @@ export default function Home() {
 
             <ul>
               {db.external.map((linkExterno) => {
+                const [projectName, githubUser] = linkExterno
+                  .replace(/\//g, '')
+                  .replace('https:', '')
+                  .replace('.vercel.app', '')
+                  .split('.');
+
                 return (
-                  <li>
-                    <Widget.Topic href={linkExterno}>
-                      {textoDoLink}
+                  <li key={linkExterno}>
+                    <Widget.Topic
+                      as={Link}
+                      href={`/quiz/${projectName}___${githubUser}`}>
+                      {`${githubUser}/${projectName}`}
                     </Widget.Topic>
                   </li>
                 );
