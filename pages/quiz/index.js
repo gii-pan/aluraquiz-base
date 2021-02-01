@@ -61,16 +61,6 @@ function LoadingWidget() {
           Carregando...
       </Widget.Header>
 
-        <img
-          alt="Descrição"
-          style={{
-            width: '100%',
-            height: '150px',
-            objectFit: 'cover',
-          }}
-          src="https://thumbs.gfycat.com/DependableTerribleCornsnake-size_restricted.gif"
-        />
-
       </Widget>
 
       <Widget>
@@ -79,10 +69,10 @@ function LoadingWidget() {
           alt="Descrição"
           style={{
             width: '100%',
-            height: '150px',
+            height: '350px',
             objectFit: 'cover',
           }}
-          src="https://3.bp.blogspot.com/-LumSz4RviXU/WMcwMTtBdxI/AAAAAAAABJc/J2RpLiunTAEB5X5b6UbRpzKF_XgN-j5lQCLcB/s640/cardcaptor-sakura-transform-16060371b9.gif"
+          src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/782f111d-1af7-4cb1-a8d3-9fa28b10dcf7/dccamr1-1fdd41eb-74c7-46e2-bdcb-ac7c696ae3ef.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNzgyZjExMWQtMWFmNy00Y2IxLWE4ZDMtOWZhMjhiMTBkY2Y3XC9kY2NhbXIxLTFmZGQ0MWViLTc0YzctNDZlMi1iZGNiLWFjN2M2OTZhZTNlZi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.AOzN0s_jJ3XMr_aDHuQPoBCkgLi6N0dkVjeEEdeYuPc"
         />
       </Widget>
 
