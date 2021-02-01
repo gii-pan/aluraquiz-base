@@ -81,7 +81,8 @@
   ],
   "external": [
     "https://aluraquiz-css.omariosouto.vercel.app/",
-    "https://quiz-react.brenoha.vercel.app/"
+    "https://quiz-react.brenoha.vercel.app/",
+    "https://aluraquiz.moacirb.vercel.app/"
   ],
   "theme": {
     "colors": {
