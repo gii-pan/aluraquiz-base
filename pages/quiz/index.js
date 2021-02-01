@@ -1,11 +1,12 @@
 import React from 'react';
-import db from '../db.json';
+import db from '../../db.json';
 import Head from 'next/head';
-import Widget from '../src/components/Widget';
-import QuizBackground from '../src/components/QuizBackground';
-import QuizContainer from '../src/components/QuizContainer';
-import Button from '../src/components/Button';
-import AlternativesForm from '../src/components/AlternativeForm';
+import Widget from '../../src/components/Widget';
+
+import QuizBackground from '../../src/components/QuizBackground';
+import QuizContainer from '../../src/components/QuizContainer';
+import Button from '../../src/components/Button';
+import AlternativesForm from '../../src/components/AlternativeForm';
 //import data from '../db';
 //import Tomoyo from '../src/assets/Tomoyo';
 

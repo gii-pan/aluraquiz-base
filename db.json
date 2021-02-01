@@ -1,6 +1,5 @@
 {
   "bg": "https://images4.alphacoders.com/971/971201.jpg",
-  "imagem": "src/assets/Tomoyo.jpg",
   "bgL": "https://i.pinimg.com/originals/0d/db/55/0ddb5561cd7ef6f63adfee74ef423256.gif",
   "bgQ": "https://i.pinimg.com/originals/d8/25/b9/d825b96f6f6df5366e227f71679d04c7.jpg",
   "bgR": "https://steamuserimages-a.akamaihd.net/ugc/158032285461701670/56541210FAA2D262EFDBBF7BC8ED49B31DDE7BC5/",
@@ -58,7 +57,7 @@
     {
       "image": "https://thumbs.gfycat.com/ForkedBowedHarpyeagle-small.gif",
       "title": "De qual animação pertence essas garotas mágicas?",
-      "description": "Sei que você vai querer ser, uma de nós",
+      "description": "Quem de nós cinco pode controlar o fogo? Qual é a rainha do ar? E quem de nós inventa mágicas com água Ou pode a terra controlar?",
       "answer": 3,
       "alternatives": [
         "Kim Possible",
@@ -70,7 +69,7 @@
     {
       "image": "https://2.bp.blogspot.com/-VmV0lEPtvzA/WzmaoHDhEpI/AAAAAAAADlw/iZBtGVA2yHAulQ_Rvdpoj8fAyY7r1zQbgCLcBGAs/s1600/07%2BSakura.gif",
       "title": "De qual anime pertence essa garota mágica?",
-      "description": "Sei que você vai querer ser, uma de nós",
+      "description": "Chave que guarda o poder da minha estrela! Mostre seus verdadeiros poderes sobre nós, e ofereça à essa valente que aceitou esta missão! Liberte-se!",
       "answer": 1,
       "alternatives": [
         "As Meninas Super Poderosas",
@@ -81,6 +80,7 @@
     }
   ],
   "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
     "https://quiz-react.brenoha.vercel.app/"
   ],
   "theme": {
